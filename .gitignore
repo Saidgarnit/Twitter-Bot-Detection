@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+*.pkl
+*.joblib
+.models/
+models/
+venv/
+.env
+.DS_Store
+data/*.csv
