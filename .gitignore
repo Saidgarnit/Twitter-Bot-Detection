@@ -8,3 +8,6 @@ venv/
 .env
 .DS_Store
 data/*.csv
+# ignore models and raw data
+models/
+data/*.csv
