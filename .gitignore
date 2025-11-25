@@ -11,3 +11,11 @@ data/*.csv
 # ignore models and raw data
 models/
 data/*.csv
+
+# ignore trained models and raw data
+models/
+data/*.csv
+
+# ignore trained models and raw data
+models/
+data/*.csv
